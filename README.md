@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="Photo by RealToughCandy.com from Pexels: https://www.pexels.com/photo/hand-holding-a-paper-with-message-11035537/"  />
+  <img height="150" src="[Photo by RealToughCandy.com from Pexels: https://www.pexels.com/photo/hand-holding-a-paper-with-message-11035537/](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWIyOTN6bW9ieW00cWQwa3V5bzV0NDkzaWt0bWV3ZHhiOGZ0dG5hcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif)"  />
 </div>
 
 ###
