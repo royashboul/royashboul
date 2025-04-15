@@ -18,12 +18,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h3 align="left">ML :</h3>
+
+###
 
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tools</h3>
 
 ###
 
@@ -71,8 +76,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
