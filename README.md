@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="Photo by RealToughCandy.com from Pexels: https://www.pexels.com/photo/hand-holding-a-paper-with-message-11035537/"  />
 </div>
 
 ###
