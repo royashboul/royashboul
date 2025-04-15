@@ -2,7 +2,12 @@
 <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWIyOTN6bW9ieW00cWQwa3V5bzV0NDkzaWt0bWV3ZHhiOGZ0dG5hcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif"  /></div>
 
 ###
+<h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
+<h2 align="center">Data Analyst & Machine Learning Engineer </h1>
 
+###
+<h3 align="left">My Profies:</h3>
+####
 <div align="center">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
@@ -13,8 +18,6 @@
 
 ###
 
-<h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
-<h2 align="center">Data Analyst & Machine Learning Engineer </h1>
 
 ###
 
