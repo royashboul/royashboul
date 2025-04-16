@@ -32,8 +32,9 @@
   </a>
 </div>
 
+<p style="margin:10px 0;"></p>
 
-<br><br>
+
 
 <h3 align="left">Languages</h3>
 
