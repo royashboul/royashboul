@@ -41,10 +41,11 @@
 
 
 ###
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ###
 <br><br>
