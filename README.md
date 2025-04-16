@@ -49,7 +49,8 @@
 
 
 ###
-<br><br>
+<p style="margin:10px 0;"></p>
+
 
 <h3 align="left">Machine Learning</h3>
 
