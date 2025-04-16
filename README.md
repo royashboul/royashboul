@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBpMjBxYXg0enpwbHhwazQ0OTBkejkyM3lqOWE5bTRhOG9xMzZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFz7YZA0vhiGlAYCSn/giphy.gif" alt="cool gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBpMjBxYXg0enpwbHhwazQ0OTBkejkyM3lqOWE5bTRhOG9xMzZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFz7YZA0vhiGlAYCSn/giphy.gif" alt="cool gif" width="200"/>
 </p>
 
 
-
+<br><br>
 
 <h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
 <h2 align="center">Data Analyst & Machine Learning Engineer </h2>
