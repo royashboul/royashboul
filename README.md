@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWIyOTN6bW9ieW00cWQwa3V5bzV0NDkzaWt0bWV3ZHhiOGZ0dG5hcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/1qzirb6B4KXOHbJpd3/giphy.gif" width="200"/>
 </div>
+
 
 
 <h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
