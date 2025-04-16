@@ -3,8 +3,6 @@
 </p>
 
 
-<br><br>
-
 <h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
 <h2 align="center">Data Analyst & Machine Learning Engineer </h2>
 
