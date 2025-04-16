@@ -6,7 +6,7 @@
 
 <h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
 <h2 align="center">Data Analyst & Machine Learning Engineer </h2>
-
+<br><br>
 
 <h3 align="center">My Profiles:</h3>
 
@@ -37,7 +37,7 @@
 
 
 <h3 align="left">Languages</h3>
-<hr style="border: none; border-top: 1px solid #d; margin: 1px 0;">
+<hr>
 
 
 
