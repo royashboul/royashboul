@@ -1,29 +1,36 @@
 <div align="center">
-<img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWIyOTN6bW9ieW00cWQwa3V5bzV0NDkzaWt0bWV3ZHhiOGZ0dG5hcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif"  /></div>
-
-###
-<h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
-<h2 align="center">Data Analyst & Machine Learning Engineer </h1>
-
-###
-<h3 align="left">My Profiles:</h3>
-
-###
-
-<div align="center">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> 
-<img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
-<img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-</div>
-
-###
-<div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWIyOTN6bW9ieW00cWQwa3V5bzV0NDkzaWt0bWV3ZHhiOGZ0dG5hcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif"  />
 </div>
 
-###
+<h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
+<h2 align="center">Data Analyst & Machine Learning Engineer </h2>
+
+---
+
+<h3 align="center">My Profiles:</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>&nbsp;
+  
+  <a href="https://wa.me/YOUR_NUMBER">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/>
+  </a>&nbsp;
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
+  </a>&nbsp;
+
+  <a href="https://www.kaggle.com/YOUR_PROFILE">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"/>
+  </a>&nbsp;
+
+  <a href="https://YOUR_SLACK_LINK">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"/>
+  </a>
+</div>
+
 
 
 <h3 align="left">Languages</h3>
