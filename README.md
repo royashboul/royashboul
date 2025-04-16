@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"/>
   </a>&nbsp;
 
-  <a href="https://Rou'ya Alshaboul - T46">
+  <a href="https://techforjobs5.slack.com/team/U07T000P597">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"/>
   </a>
 </div>
@@ -109,7 +109,7 @@
 
 <h3 align="left">Editing</h3>
 <hr>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
