@@ -37,7 +37,8 @@
 
 
 <h3 align="left">Languages</h3>
----
+<hr style="border: none; border-top: 1px solid #ddd; margin: 10px 0;">
+
 
 
 
