@@ -32,12 +32,12 @@
   </a>
 </div>
 
-<p style="margin:10px 0;"></p>
+
 
 
 
 <h3 align="left">Languages</h3>
-
+---
 ###
 
 
@@ -49,11 +49,11 @@
 
 
 ###
-<div style="margin-top: 20px;"></div>
 
 
 
 <h3 align="left">Machine Learning</h3>
+---
 
 ###
 
