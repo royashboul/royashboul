@@ -72,7 +72,7 @@
 
 <h3 align="left">Data Analyst</h3>
 <hr>
-###
+
 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -85,7 +85,7 @@
 
 <h3 align="left">🛠 Tools</h3>
 <hr>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
