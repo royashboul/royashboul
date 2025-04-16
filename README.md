@@ -6,6 +6,7 @@
 
 <h1 align="center">Hello World👋 ! I'm Ro'ya </h1>
 <h2 align="center">Data Analyst & Machine Learning Engineer </h2>
+
 <br><br>
 
 <h3 align="center">My Profiles:</h3>
@@ -41,11 +42,6 @@
 
 
 
-
-
-###
-
-
 ###
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
@@ -58,7 +54,7 @@
 
 
 <h3 align="left">Machine Learning</h3>
----
+<hr>
 
 ###
 
@@ -71,11 +67,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ###
 
-<br><br>
+
 
 
 <h3 align="left">Data Analyst</h3>
-
+<hr>
 ###
 
 
@@ -86,9 +82,9 @@
 
 
 ###
-<br><br>
-<h3 align="left">🛠 Tools</h3>
 
+<h3 align="left">🛠 Tools</h3>
+<hr>
 ###
 
 <div align="left">
@@ -110,9 +106,9 @@
 </div>
 
 ###
-<br><br>
-<h3 align="left">Editing</h3>
 
+<h3 align="left">Editing</h3>
+<hr>
 ###
 
 <div align="left">
